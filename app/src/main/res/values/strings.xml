@@ -2,4 +2,6 @@
     <string name="app_name">HelloWorld</string>
     <string name="strButtonCaption">Click Here!</string>
     <string name="strMessage">Hello!</string>
+    <string name="strButtonCaption1">Say Yay!</string>
+    <string name="strMessage1">YAY!!!</string>
 </resources>
