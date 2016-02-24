@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Kamustas Bayang</string>
-    <string name="strButtonCaption">Click Here!</string>
+    <string name="strButtonCaption">(Cliquez Dessus)</string>
     <string name="strMessage">BONJOURs</string>
 </resources>
